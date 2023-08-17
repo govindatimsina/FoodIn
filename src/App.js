@@ -1,3 +1,4 @@
+import Meal from "./Components/Meal";
 import NavBar from "./Components/NavBar";
 import QuickDelivery from "./Components/QuickDelivery";
 import Slider from "./Components/Slider";
@@ -10,6 +11,7 @@ function App() {
       <Slider />
       <QuickDelivery />
       <TopPicks />
+      <Meal />
       Hello test
     </div>
   );

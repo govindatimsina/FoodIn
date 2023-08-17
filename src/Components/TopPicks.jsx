@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { topPicksData } from "../data";
+import { topPicksData } from "../Assets/data";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import { Splide, SplideSlide } from "@splidejs/react-splide";

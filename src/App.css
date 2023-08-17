@@ -24,6 +24,19 @@
 .textBox {
   padding: 0 1rem;
 }
+.cardBox {
+  width: 100%;
+}
+.mealCards {
+  width: 15rem;
+  text-align: center;
+}
+.menuBtns:hover,
+.menuBtns:active {
+  color: #ffffff;
+  background-color: #1f2838;
+  border-color: #494f57;
+}
 @media screen and (max-width: 844px) {
   .mainBox {
     flex-direction: column;
